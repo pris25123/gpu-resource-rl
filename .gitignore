@@ -15,15 +15,10 @@ ENV/
 build/
 dist/
 
-# Trained models
-models/
-
 # MLflow tracking
 mlruns/
 mlflow.db
 
-# Archives
-*.zip
 
 # OS files
 .DS_Store
